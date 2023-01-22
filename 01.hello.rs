@@ -1,1 +1,4 @@
-dadfa
+fn main()
+{
+    println!("hello")  
+}
