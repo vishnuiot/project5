@@ -1,10 +1,12 @@
 fn main() {
-    increment(10);
-    if is_even(45) {
+    let mut n=10;
+    increment(n);
+    if is_even(n) {
         println!("The number is even");
+    } else {
+        println!("The number is odd");
     }
-    else{println!("The number is odd")};
-    
+
     println!("Hello, world!");
 }
 
