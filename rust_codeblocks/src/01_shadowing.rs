@@ -1,4 +1,5 @@
 fn main() {
+    let mut x=10
 
-    println!("Test program ")
+    println!(" x is {} ",x);
 }
