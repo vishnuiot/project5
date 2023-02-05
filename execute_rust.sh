@@ -6,7 +6,9 @@
 # cd to source folder
 # cargo run
 
-
-
+cd rust_codeblocks/src
+rustc 01_shadowing.rs
+./01_shadowing
+cd -
 ./gitupload.sh
 
