@@ -8,8 +8,9 @@
 
 cd rust_codeblocks/src
 # rustc 01_shadowing.rs
-rustc 02_references.rs
-./02_references
+# rustc 02_references.rs
+rustc 03_struct.rs
+./03_struct
 
 cd -
 ./gitupload.sh
